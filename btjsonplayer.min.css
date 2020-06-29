@@ -306,7 +306,7 @@ to{opacity:.25;-webkit-transform:scale(.85);transform:scale(.85)}}.leleplayer-co
 @-webkit-keyframes danmaku-center{0%{visibility:visible}
 to{visibility:visible}}@keyframes danmaku-center{0%{visibility:visible}
 to{visibility:visible}}
-.leleplayer-logo{pointer-events:none;position:absolute;z-index:2;right: 5%;top: 5%;width: 100px;height: 55px;opacity: .5;}
+.leleplayer-logo{pointer-events:none;position:absolute;z-index:2;right: 5%;top: 1%;width: 200px;height: 80px;opacity: .8;}
 .leleplayer-logo img{max-width:100%;max-height:100%;background:none;}
 .leleplayer-menu{position:absolute;width:170px;border-radius:2px;background:rgba(28,28,28,.85);padding:5px 0;overflow:hidden;z-index:3;display:none}
 .leleplayer-menu.leleplayer-menu-show{display:block}
